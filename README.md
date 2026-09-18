@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a bachelor graduated in Computer Science and Engineerign at the Alma Mater Studiorum aka University of Bologna.
+I'm a bachelor graduated in Computer Science and Engineering at the Alma Mater Studiorum aka University of Bologna.
 
 I'm currently working on becoming an AI Engineer...<br>Who knows?
 
